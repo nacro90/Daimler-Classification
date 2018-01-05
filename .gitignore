@@ -1,0 +1,4 @@
+raw_dataset/
+processed_dataset/positive/
+processed_dataset/negative/
+checkpoints/*/model/
